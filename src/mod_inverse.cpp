@@ -26,16 +26,12 @@ int extended_euclid(int a, int b, int &x, int &y) {
 }
 
 int mod_inverse(int a, int m) {
-    int x = 0, y = 0;
+    int x, y;
     int g = extended_euclid(a, m, x, y);
-
     if (g != 1) {
-        return -1; // không tồn tại nghịch đảo
+        return (0 - 1);
     }
-
-    // Đảm bảo kết quả dương
-    int result = (x % m + m) % m;
-    return result;
+    return (x % m + m) % m;
 }
 
 int main() {

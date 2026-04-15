@@ -11,7 +11,4 @@
 - [x] Đã chạy với `6 9`
 
 ## Điều em học được từ bài lab
-- Hiểu cách tính entropy của chuỗi ký tự.
-- Biết tính độ dư thừa thông tin từ entropy.
-- Nắm được cách tìm nghịch đảo modulo bằng Euclid mở rộng.
-- Cải thiện kỹ năng lập trình và sử dụng Git.
+Mục tiêu của em là hiểu cách tính entropy và độ dư thừa thông tin, nắm vững thuật toán Euclid mở rộng để tìm nghịch đảo modulo, đồng thời cải thiện kỹ năng lập trình và sử dụng Git.
