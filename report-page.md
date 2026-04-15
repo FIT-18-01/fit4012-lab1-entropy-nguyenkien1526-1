@@ -13,9 +13,9 @@ Tóm tắt ngắn gọn mục tiêu của bài lab.
 ### 3.1 Entropy và redundancy
 | Input | Entropy | Redundancy | Nhận xét |
 |---|---:|---:|---|
-| aaaa |  |  |  |
-| abcd |  |  |  |
-| hello world |  |  |  |
+| aaaa | 0 | 8 | Entropy thấp, dữ liệu lặp lại hoàn toàn  |
+| abcd | 2 | 6 | Phân bố đều, entropy cao hơn |
+| hello world | 2.84535 | 5.15465 | Phân bố không đều, entropy trung bình|
 
 ### 3.2 Modulo inverse
 | a | m | Kết quả mong đợi | Kết quả chương trình |
