@@ -1,7 +1,7 @@
 # Report 1 Page – FIT4012 Lab 1
 
 ## 1. Mục tiêu
-Tóm tắt ngắn gọn mục tiêu của bài lab.
+Tìm hiểu cách tính entropy của chuỗi ký tự, tính độ dư thừa thông tin và cài đặt thuật toán tìm nghịch đảo modulo bằng Euclid mở rộng.
 
 ## 2. Cách làm
 - Đọc hiểu chương trình entropy mẫu.
@@ -25,4 +25,4 @@ Tóm tắt ngắn gọn mục tiêu của bài lab.
 | 6 | 9 | Không tồn tại | Không tồn tại |
 
 ## 4. Kết luận
-Nêu ngắn gọn em học được gì từ bài lab, khó khăn lớn nhất là gì, và điều gì giúp em hiểu rõ hơn về entropy hoặc modulo inverse.
+Em đã hiểu cách tính entropy, độ dư thừa thông tin và tìm nghịch đảo modulo bằng Euclid mở rộng. Khó khăn lớn nhất là hiểu rõ ý nghĩa của entropy và cách áp dụng công thức vào thực tế. Việc chạy thử nhiều test case giúp em hiểu rõ hơn về các khái niệm này.

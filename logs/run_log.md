@@ -11,4 +11,7 @@
 - [x] Đã chạy với `6 9`
 
 ## Điều em học được từ bài lab
-Viết 3-5 dòng ngắn gọn ở đây.
+- Hiểu cách tính entropy của chuỗi ký tự.
+- Biết tính độ dư thừa thông tin từ entropy.
+- Nắm được cách tìm nghịch đảo modulo bằng Euclid mở rộng.
+- Cải thiện kỹ năng lập trình và sử dụng Git.
